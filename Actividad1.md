@@ -14,51 +14,88 @@ Según el texto, ¿cómo contribuyen los equipos autónomos y multifuncionales a
 Su contribución se da con la disolución de barreras para agilizar el flujo de trabajo.
 
 Parte 1:
-Inicializacion del proyecto
+Inicializacion del proyecto.
+
 ![Inicializacion del proyecto](./Actividad1_images/Parte1.PNG)
-le damos la estructura al proyecto
+
+le damos la estructura al proyecto.
 ![le damos la estructura al proyecto](./Actividad1_images/Parte2.PNG)
-Editamos el archivo app.js
+
+Editamos el archivo app.js.
+
 ![Editamos el archivo app.js](./Actividad1_images/Parte3.PNG)
+
 app.test.js
+
 ![app.test.js](./Actividad1_images/Parte4.PNG)
+
 Editamos el archivo app.test.js
+
 ![Editamos el archivo app.test.js](./Actividad1_images/Parte5.PNG)
+
 Navegamos al archivo .json
+
 ![navegamos al archivo .json](./Actividad1_images/Parte6.PNG)
+
 Editamos el archivo package.json
+
 ![Editamos el archivo package.json](./Actividad1_images/Parte7.PNG)
+
 Configuramos integración continua (CI) con GitHub Actions
+
 ![ Configuramos integración continua (CI) con GitHub Actions](./Actividad1_images/Parte8.PNG)
+
 Editamos el archivo ci.yml
+
 ![Editamos el archivo ci.yml](./Actividad1_images/Parte9.PNG)
+
 Iniciamos git
+
 ![Iniciamos git](./Actividad1_images/Parte10.PNG)
+
 Subimos el codigo a github
+
 ![Subimos el codigo a github](./Actividad1_images/Parte11.PNG)
+
 
 Parte 2: Configura entrega continua (CD) con Docker
 
 Creamos el archivo Dockerfile.
+
 ![Dockerfile](./Actividad1_images/Parte12.PNG)
+
 Construimos la imagen Docker
+
 ![imagen Docker](./Actividad1_images/Parte13.PNG)
+
 ![imagen Docker](./Actividad1_images/Parte14.PNG)
+
 Corremos el contenedor localmente
+
 ![imagen Docker](./Actividad1_images/Parte15.PNG)
+
 Verificamos el " hello world"
+
 ![helloworld](./Actividad1_images/Parte16.PNG)
 
 Parte 3: Automatización con Docker Compose
 Para facilitar la gestión de tu entorno, puedes usar Docker Compose.
 Crea un archivo docker-compose.yml:
+
 ![dockercompose](./Actividad1_images/Parte19.PNG)
+
 Corre la aplicación usando Docker Compose:
+
 ![dockercompose](./Actividad1_images/Parte17.PNG)
+
 hello world
+
 ![dockercompose](./Actividad1_images/Parte18.PNG)
+
 confirmamos la accion del contenedor 
+
 ![dockercompose](./Actividad1_images/Parte20.PNG)
+
 
 
 
